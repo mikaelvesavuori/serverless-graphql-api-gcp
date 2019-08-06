@@ -1,0 +1,20 @@
+# AWS configuration detailed at: https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
+
+service: serverless-graphql-api-gcp
+
+provider:
+  name: google
+  runtime: nodejs8.10
+  stage: ${opt:stage,'dev'}
+  region: eu-north-1
+  memorySize: 1024
+  environment:
+    #DYNAMODB_TABLE: ${self:service}-${self:provider.stage}
+functions:
+  api:
+    handler: functions/index.api
+    events:
+      - http:
+          path: api
+          method: post
+          cors: true
