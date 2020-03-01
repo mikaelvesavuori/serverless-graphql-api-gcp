@@ -6,3 +6,29 @@ patch:
   SNYK-JS-HTTPSPROXYAGENT-469131:
     - serverless > https-proxy-agent:
         patched: '2020-03-01T05:09:00.161Z'
+    - serverless > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > gcs-resumable-upload > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > @google-cloud/common > teeny-request > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/firestore > google-gax > google-auth-library > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > @google-cloud/common > google-auth-library > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > gcs-resumable-upload > google-auth-library > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/firestore > google-gax > google-auth-library > gcp-metadata > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > @google-cloud/common > google-auth-library > gcp-metadata > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > gcs-resumable-upload > google-auth-library > gcp-metadata > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/firestore > google-gax > google-auth-library > gtoken > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > @google-cloud/common > google-auth-library > gtoken > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
+    - firebase-admin > @google-cloud/storage > gcs-resumable-upload > google-auth-library > gtoken > gaxios > https-proxy-agent:
+        patched: '2020-03-01T10:47:40.660Z'
