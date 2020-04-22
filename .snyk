@@ -35,6 +35,10 @@ patch:
   'npm:debug:20170905':
     - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug:
         patched: '2020-04-13T07:55:29.231Z'
+    - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug:
+        patched: '2020-04-22T09:57:38.486Z'
   'npm:ms:20170412':
     - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug > ms:
         patched: '2020-04-13T07:55:29.231Z'
+    - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug > ms:
+        patched: '2020-04-22T09:57:38.486Z'
