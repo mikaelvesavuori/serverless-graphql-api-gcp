@@ -22,7 +22,7 @@
   "dependencies": {
     "firebase-admin": "^8.10.0",
     "firebase-functions": "^3.6.0",
-    "firebase-tools": "^8.0.2",
+    "firebase-tools": "^8.1.1",
     "snyk": "^1.307.0"
   },
   "devDependencies": {
