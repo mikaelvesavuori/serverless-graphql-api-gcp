@@ -42,3 +42,112 @@ patch:
         patched: '2020-04-13T07:55:29.231Z'
     - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug > ms:
         patched: '2020-04-22T09:57:38.486Z'
+  SNYK-JS-LODASH-567746:
+    - '@babel/core > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-functions > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-block-scoping > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/enterprise-plugin > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > archiver > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > inquirer > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > inquirer > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > inquirer > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > superstatic > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-config > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-classes > @babel/helper-define-map > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > archiver > async > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > tabtab > inquirer > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > json-refs > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/components > prettyoutput > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/enterprise-plugin > @serverless/event-mocks > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > archiver > archiver-utils > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > archiver > zip-stream > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > archiver > async > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > portfinder > async > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > winston > async > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > superstatic > nash > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/cli > @serverless/template > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/components > @serverless/inquirer > inquirer > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > archiver > zip-stream > archiver-utils > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - firebase-tools > superstatic > glob-slasher > toxic > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/ruby-semver > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > snyk-config > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/preset-modules > @babel/plugin-transform-dotall-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > winston > async > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/enterprise-plugin > dependency-tree > precinct > detective-typescript > @typescript-eslint/typescript-estree > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
+    - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > @tencent-sdk/capi > request-promise-native > request-promise-core > lodash:
+        patched: '2020-05-03T05:09:37.238Z'
+    - '@babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash':
+        patched: '2020-05-03T05:09:37.238Z'
