@@ -43,6 +43,8 @@ patch:
     - serverless > @serverless/components > @serverless/platform-client-china > @serverless/utils-china > socket.io-stream > debug > ms:
         patched: '2020-04-22T09:57:38.486Z'
   SNYK-JS-LODASH-567746:
+    - serverless > @serverless/components > graphlib > lodash:
+        patched: '2020-05-10T08:12:25.183Z'
     - '@babel/core > lodash':
         patched: '2020-05-03T05:09:37.238Z'
     - serverless > lodash:
