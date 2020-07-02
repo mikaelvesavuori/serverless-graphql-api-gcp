@@ -1,0 +1,9 @@
+{
+  "name": "serverless-graphql-api-gcp",
+  "private": true,
+  "description": "Serverless GraphQL API on Google Cloud Functions",
+  "dependencies": {
+    "apollo-server-cloud-functions": "^2.15.1",
+    "graphql": "^15.2.0"
+  }
+}
