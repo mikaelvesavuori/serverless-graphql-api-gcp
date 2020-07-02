@@ -74,4 +74,4 @@ should return:
 }
 ```
 
-Your all set to work the wonders of GraphQL! :)
+You're all set to work the wonders of GraphQL! :)
