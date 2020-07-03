@@ -3,7 +3,7 @@ cd api
 npm install
 cd ..
 
-# Remove ZIP deployment bundle if it exists since before
+# Remove ZIP deployment bundle if it exists from previous deployments
 rm -f bundle.zip
 
 # Bundle API code folder in preparation for deployment
